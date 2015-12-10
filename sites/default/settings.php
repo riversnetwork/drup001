@@ -490,7 +490,7 @@ if ($settings['hash_salt']) {
  * security by serving user-uploaded files from a different domain or subdomain
  * pointing to the same server. Do not include a trailing slash.
  */
-# $settings['file_public_base_url'] = 'http://downloads.example.com/files';
+# $settings['file_public_base_url'] = 'https://drup001-riversnetwork.c9users.io';
 
 /**
  * Public file path:
